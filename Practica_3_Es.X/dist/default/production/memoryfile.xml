@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\Practica_3_Es.X.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>4096</length>
+      <used>530</used>
+      <free>3566</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>192</length>
+      <used>47</used>
+      <free>145</free>
+    </memory>
+  </executable>
+</project>
